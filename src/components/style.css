@@ -1,0 +1,7 @@
+.Nav{
+    display: flex;
+    width: 300px;
+    margin: auto;
+    justify-content: space-around;
+    background-color: antiquewhite;
+}
